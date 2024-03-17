@@ -15,6 +15,7 @@ export class HomePage {
     alert("Hiciste clic!");
   }
 
+  imgUrl: string = 'https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL3BsYXlcL2E1NTFjMTA1LTdkNGMtNGE5NC1iM2UzLWZkM2NiYTg3MmIzYy0xOTIwLTEwODAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoiMTIwMCJ9fX0='
   ngOnInit(){}
 
   verdadero: boolean = true;
