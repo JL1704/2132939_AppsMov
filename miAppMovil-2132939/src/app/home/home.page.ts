@@ -9,4 +9,8 @@ export class HomePage {
 
   constructor() {}
 
+  ngOnInit(){}
+
+  verdadero: boolean = false;
+
 }
