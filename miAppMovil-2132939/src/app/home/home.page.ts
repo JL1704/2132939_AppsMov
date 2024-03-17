@@ -11,6 +11,6 @@ export class HomePage {
 
   ngOnInit(){}
 
-  verdadero: boolean = false;
+  verdadero: boolean = true;
 
 }
