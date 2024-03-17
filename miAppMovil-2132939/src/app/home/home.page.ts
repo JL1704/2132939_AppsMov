@@ -9,6 +9,7 @@ export class HomePage {
 
   constructor() {}
 
+  title: string = "Mi nueva pagina!";
   ngOnInit(){}
 
   verdadero: boolean = true;
